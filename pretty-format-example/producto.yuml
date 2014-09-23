@@ -1,0 +1,20 @@
+[
+  Producto 
+  |
+    +nombre;
+    +precio_base;
+    +caracteristicas;
+    +descripcion;
+    +foto
+  |
+    +todo()
+]
+[
+  Cliente 
+  |
+    +nombre;
+    +direccion;
+    +telefono
+  |
+    +todo()
+]
